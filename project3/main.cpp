@@ -5,7 +5,7 @@
 #include <set>
 #include <cstdlib>
 #include "Symbol.h"
-//#include <bits/stdc++.h>
+
 using namespace std;
 static ofstream errOut("error.txt");
 map<string, Variable*> globalSymbolTable;
